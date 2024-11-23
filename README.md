@@ -105,7 +105,8 @@ Dynamic DevOps and Cloud Engineer with a pleasing, youthful personality and a ze
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=22lavanyas&theme=onedark" alt="Lavanya-Sharma" /></p>
 
 </div>
-
+<div align="center">
+  
 ```
   ____                  ____                      
  / __ \___  ___ ___    / __/__  __ _____________  
@@ -117,3 +118,4 @@ Dynamic DevOps and Cloud Engineer with a pleasing, youthful personality and a ze
 /___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
                  /___/                /___/       
 ```
+</div>
