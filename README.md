@@ -1,7 +1,8 @@
 <h1 align="center">
 
 <div align="center">
-  <img src=".\linkedin_profile_pic.jpeg" alt="Photo" height="210" width="230" style="border-radius: 50% !important;"/>
+<img src="./linkedin_profile_pic.jpeg" alt="Photo" width="200" height="200" style="border-radius: 50%; object-fit: cover;">
+
   <h1>Hi there! 👋 I'm Lavanya Sharma</h1>
   <p>👨‍💻 DevOps Enthusiast | 🌟 Passionate about Automation | 🛠️ Builder of Scalable Systems</p>
 </div>
@@ -88,10 +89,11 @@ Dynamic DevOps and Cloud Engineer with a pleasing, youthful personality and a ze
 
 <br>
 
-<!-- <div align="center"> 
+ <div align="center"> 
 <h2>🎵 Currently Vibing to </h2>
 
-[![Spotify](https://novatorem-topaz-ten.vercel.app/api/spotify)](https://open.spotify.com/user/mlixpspj92r8h9o4noyo8qjdq)</div> -->
+[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/mlixpspj92r8h9o4noyo8qjdq)
+
 
 <div align="center"> 
 <h2>👀 My Github Stats</h2>
