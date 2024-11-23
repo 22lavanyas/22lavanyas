@@ -92,8 +92,7 @@ Dynamic DevOps and Cloud Engineer with a pleasing, youthful personality and a ze
  <div align="center"> 
 <h2>🎵 Currently Vibing to </h2>
 
-[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/mlixpspj92r8h9o4noyo8qjdq)
-
+[![Spotify](https://novatorem-virid-six.vercel.app/api/spotify)](https://open.spotify.com/user/mlixpspj92r8h9o4noyo8qjdq)
 
 <div align="center"> 
 <h2>👀 My Github Stats</h2>
