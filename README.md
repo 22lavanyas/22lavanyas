@@ -1,7 +1,7 @@
 <h1 align="center">
 
 <div align="center">
-<img src="./linkedin_profile_pic.jpeg" alt="Photo" width="200" height="200" style="border-radius: 50%; object-fit: cover;">
+<img src="./linkedin_profile_pic.png" alt="Photo" width="200" height="200" style="border-radius: 50%; object-fit: cover;">
 
   <h1>Hi there! 👋 I'm Lavanya Sharma</h1>
   <p>👨‍💻 DevOps Enthusiast | 🌟 Passionate about Automation | 🛠️ Builder of Scalable Systems</p>
