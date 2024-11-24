@@ -94,6 +94,7 @@ Dynamic DevOps and Cloud Engineer with a pleasing, youthful personality and a ze
 
 [![Spotify](https://novatorem-alpha-nine.vercel.app/api/spotify)](https://open.spotify.com/user/mlixpspj92r8h9o4noyo8qjdq)
 
+
 <div align="center"> 
 <h2>👀 My Github Stats</h2>
 
