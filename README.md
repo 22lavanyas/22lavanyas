@@ -3,7 +3,7 @@
 <div align="center">
 <img src="./linkedin_profile_pic.png" alt="Photo" width="200" height="200" style="border-radius: 50%; object-fit: cover;">
 
-  <h1>नमस्ते (Namaste)! I'm Lavanya Sharma</h1>
+  <h1> Namaste (नमस्ते)! I'm Lavanya Sharma</h1>
   <p>👨‍💻 DevOps Enthusiast | 🌟 Passionate about Automation | 🛠️ Builder of Scalable Systems</p>
 </div>
 
